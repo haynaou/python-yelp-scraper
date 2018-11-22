@@ -12,9 +12,7 @@ The code above ☝️prints the following result:
 ```
 [
   'The Soiled Dove',
-  'Fog Harbor 
-  
-  Fish House',
+  'Fog Harbor Fish House',
   'The House',
   'Marufuku Ramen SF',
   'Farmhouse Kitchen Thai Cuisine',
