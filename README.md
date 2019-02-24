@@ -46,4 +46,4 @@ The code above ☝️prints the following result:
 ```
 
 ## Demo link
-You can test it with your favourite city in the following link: https://repl.it/repls/TimelyImaginativeNetworks
+You can test it with your favourite city in the following link: https://repl.it/@HoudaAynaou/yelp-scraper
